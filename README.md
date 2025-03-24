@@ -1,5 +1,8 @@
 # wokwi
 
+클래스룸 가입
+3-3반 : https://classroom.google.com/c/NzUyOTY0OTg5NDU1?cjc=se6bsblq
+
 ## github와 VSCode 연동 해봄.
 
 2주차 링크: https://docs.google.com/document/d/1B8uOTPr_SJwbOEfC1maQtUzSsucx-yWGCDjVU104owQ/edit?tab=t.0
