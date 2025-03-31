@@ -1,7 +1,10 @@
 # wokwi
 
 클래스룸 가입
-3-3반 : https://classroom.google.com/c/NzUyOTY0OTg5NDU1?cjc=se6bsblq
+3학년 1반 수업코드 : m2qrrsdw
+3학년 2반 수업코드 : 544zhejm
+3학년 3반 수업코드 : jvg6wnej
+3학년 4반 수업코드 : 45rpptjt
 
 ## github와 VSCode 연동 해봄.
 
