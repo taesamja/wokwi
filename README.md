@@ -24,3 +24,6 @@
 6주차 링크: https://docs.google.com/document/d/1Zsskqbfc-Tf0Ztmg8t4Fc9Wk9MWUjp4n6B41X6ERWRM/edit?tab=t.0
 
 7주차 링크: https://docs.google.com/document/d/1V4xhPAGXHPE9aME4X76dcxpF268ju3fFthHy-BNjFlM/edit?tab=t.0
+
+8주차 링크: https://docs.google.com/document/d/1kSmZTus9ZTIem-KkAUFZU_aLAfBdmfOk5h5ozRFzLgA/edit?tab=t.0 
+
