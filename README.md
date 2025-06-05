@@ -33,7 +33,5 @@
 
 11주차 링크 : https://docs.google.com/document/d/1swRWAi8AR_8jN9IgfqsBpfhmwmzT6uylzEhaHSrDDAE/edit?tab=t.0 
 
-
-
-
+12주차 링크 : https://docs.google.com/document/d/1BIFre2XiMsCT4EEZpDXQYnmiAD_TgGqJVhk46wQhGqE/edit?tab=t.0 
 
