@@ -13,6 +13,8 @@
 
 ## github와 VSCode 연동 해봄.
 
+1주차 링크: https://docs.google.com/document/d/15q-htkWWLsfZ6nCI51h-98NQ1cxD3g9mQJeDpQjEWAI/edit?tab=t.0
+
 2주차 링크: https://docs.google.com/document/d/1B8uOTPr_SJwbOEfC1maQtUzSsucx-yWGCDjVU104owQ/edit?tab=t.0
 
 3주차 링크: https://docs.google.com/document/d/1ji2iWAL48iGC8-tDSri3bDidcf08tCN8ahjQJE6EN70/edit?tab=t.0
@@ -34,4 +36,9 @@
 11주차 링크 : https://docs.google.com/document/d/1swRWAi8AR_8jN9IgfqsBpfhmwmzT6uylzEhaHSrDDAE/edit?tab=t.0 
 
 12주차 링크 : https://docs.google.com/document/d/1BIFre2XiMsCT4EEZpDXQYnmiAD_TgGqJVhk46wQhGqE/edit?tab=t.0 
+
+13주차 링크 : https://docs.google.com/document/d/1AxTefU6Gsj8AbDuObItiX9Rm8iu3xexjbnvwpvT0DpE/edit?tab=t.0
+
+14주차 링크 : https://docs.google.com/document/d/1079s1G4B3RVUGekhV7Ah2rBoeHLFZgUSFKzmmptGR8A/edit?tab=t.0
+
 
